@@ -1,0 +1,67 @@
+[
+    {
+        "id": 2,
+        "title": "Urboo – Tavęs negana",
+        "description": "Music video for the single \"Tavęs negana\" by Lithuanian artist Urboo",
+        "authors": "Džiugas Stankauskas, Saulė Petkevičiūtė",
+        "videoId": "7LKd_oK1aAo",
+        "scale": "100%"
+    },
+    {
+        "id": 3,
+        "title": "barkodas – nk nejaučiu",
+        "description": "Music video for the single \"nk nejaučiu\" by Lithuanian artist barkodas",
+        "authors": "Džiugas Stankauskas, Nedas Šimonis",
+        "videoId": "w6tzqF6K2jk",
+        "scale": "160%"
+    },
+    {
+        "id": 4,
+        "title": "Urboo – pasikliaut savim",
+        "description": "Music video for the single \"pasikliaut savim\" by Lithuanian artist Urboo",
+        "authors": "Džiugas Stankauskas",
+        "videoId": "fQMigWedQj8",
+        "scale": "100%"
+    },
+    {
+        "id": 5,
+        "title": "Lil Skar – Nebesvaik",
+        "description": "Music video for the single \"Nebesvaik\" by Lithuanian artist Lil Skar",
+        "authors": "Lil Skar, Džiugas Stankauskas, Titas Maziliauskas",
+        "videoId": "ff7s3AJobiw",
+        "scale": "150%"
+    },
+    {
+        "id": 6,
+        "title": "Micro One – Nepasigesim",
+        "description": "Music video for the single \"Nepasigesim\" by Lithuanian artist Micro One",
+        "authors": "Džiugas Stankauskas",
+        "videoId": "GwkJlVq1yCc",
+        "scale": "105%"
+    },
+    {
+        "id": 7,
+        "title": "Hellhills – Patience",
+        "description": "Music video for the single \"Patience\" by Lithuanian artist Hellhills",
+        "authors": "Džiugas Stankauskas",
+        "image": "placeholder-image.jpg",
+        "videoId": "XQYz1526_EY",
+        "scale": "120%"
+    },
+    {
+        "id": 8,
+        "title": "Urboo + Kylok – n4xui",
+        "description": "Music video for the single \"n4xui\" by Lithuanian artists Urboo and Kylok",
+        "authors": "Džiugas Stankauskas",
+        "videoId": "wc1TeiieMZ4",
+        "scale": "120%"
+    },
+    {
+        "id": 9,
+        "title": "Siūlės ir ūsai",
+        "description": "Short film for the \"Vilnius žalioji sostinė 2025\" contest",
+        "authors": "Džiugas Stankauskas, Saulė Petkevičiūtė",
+        "videoId": "5ayFnRLWtKE",
+        "scale": "100%"
+    }
+]
