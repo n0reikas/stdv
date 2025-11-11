@@ -78,7 +78,8 @@ async function displayImages(data) {
 
         const overlay = document.createElement('div');
         overlay.className = "overlay";
-        overlay.innerHTML = `<span class="title">${item.title}</span>`;
+        overlay.innerHTML = `<span class="title">${item.title} (${item.year})</span>`;
+        /* TODO: Change font to Archivo Bold */
 
         wrapper.appendChild(img);
         wrapper.appendChild(overlay);

@@ -1,11 +1,21 @@
 [
     {
+        "id": 9,
+        "title": "Siūlės ir ūsai",
+        "description": "Short film for the \"Vilnius žalioji sostinė 2025\" contest",
+        "authors": "Džiugas Stankauskas, Saulė Petkevičiūtė",
+        "videoId": "5ayFnRLWtKE",
+        "scale": "100%",
+        "year": "2025"
+    },
+    {
         "id": 2,
         "title": "Urboo – Tavęs negana",
         "description": "Music video for the single \"Tavęs negana\" by Lithuanian artist Urboo",
         "authors": "Džiugas Stankauskas, Saulė Petkevičiūtė",
         "videoId": "7LKd_oK1aAo",
-        "scale": "100%"
+        "scale": "100%",
+        "year": "2025"
     },
     {
         "id": 3,
@@ -13,7 +23,8 @@
         "description": "Music video for the single \"nk nejaučiu\" by Lithuanian artist barkodas",
         "authors": "Džiugas Stankauskas, Nedas Šimonis",
         "videoId": "w6tzqF6K2jk",
-        "scale": "160%"
+        "scale": "160%",
+        "year": "2025"
     },
     {
         "id": 4,
@@ -21,7 +32,8 @@
         "description": "Music video for the single \"pasikliaut savim\" by Lithuanian artist Urboo",
         "authors": "Džiugas Stankauskas",
         "videoId": "fQMigWedQj8",
-        "scale": "100%"
+        "scale": "100%",
+        "year": "2024"
     },
     {
         "id": 5,
@@ -29,7 +41,8 @@
         "description": "Music video for the single \"Nebesvaik\" by Lithuanian artist Lil Skar",
         "authors": "Lil Skar, Džiugas Stankauskas, Titas Maziliauskas",
         "videoId": "ff7s3AJobiw",
-        "scale": "150%"
+        "scale": "150%",
+        "year": "2024"
     },
     {
         "id": 6,
@@ -37,7 +50,8 @@
         "description": "Music video for the single \"Nepasigesim\" by Lithuanian artist Micro One",
         "authors": "Džiugas Stankauskas",
         "videoId": "GwkJlVq1yCc",
-        "scale": "105%"
+        "scale": "105%",
+        "year": "2025"
     },
     {
         "id": 7,
@@ -46,7 +60,8 @@
         "authors": "Džiugas Stankauskas",
         "image": "placeholder-image.jpg",
         "videoId": "XQYz1526_EY",
-        "scale": "120%"
+        "scale": "120%",
+        "year": "2022"
     },
     {
         "id": 8,
@@ -54,14 +69,7 @@
         "description": "Music video for the single \"n4xui\" by Lithuanian artists Urboo and Kylok",
         "authors": "Džiugas Stankauskas",
         "videoId": "wc1TeiieMZ4",
-        "scale": "120%"
-    },
-    {
-        "id": 9,
-        "title": "Siūlės ir ūsai",
-        "description": "Short film for the \"Vilnius žalioji sostinė 2025\" contest",
-        "authors": "Džiugas Stankauskas, Saulė Petkevičiūtė",
-        "videoId": "5ayFnRLWtKE",
-        "scale": "100%"
+        "scale": "120%",
+        "year": "2021"
     }
 ]

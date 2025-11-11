@@ -118,12 +118,19 @@ img#logo {
 .overlay {
     position: absolute;
     inset: 0;
-    background: rgba(55,55,55,0.8);
+    background: rgba(0,0,0,0.3);
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     opacity: 0;
+}
+
+.title {
+    font-family: 'Archivo', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: #000000 1px 2px 10px;
 }
 
 .image-item:hover .overlay {
